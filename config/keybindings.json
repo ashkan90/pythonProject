@@ -1,0 +1,57 @@
+{
+    "movement": {
+        "forward": "w",
+        "backward": "s",
+        "left": "a",
+        "right": "d",
+        "sprint": "shift",
+        "jump": "space"
+    },
+    "combat": {
+        "basic_attack": "lmb",
+        "strong_attack": "rmb",
+        "interaction": "r",
+        "skill_modifiers": {
+            "shift": "shift",
+            "ctrl": "ctrl",
+            "alt": "alt"
+        }
+    },
+    "skills": {
+        "skill1": "1",
+        "skill2": "2",
+        "skill3": "3",
+        "skill4": "4",
+        "skill5": "5",
+        "skill6": "6",
+        "skill7": "7",
+        "skill8": "8",
+        "skill9": "9",
+        "skill0": "0"
+    },
+    "items": {
+        "hp_pot": "f1",
+        "mp_pot": "f2",
+        "wp_pot": "f3",
+        "sp_pot": "f4"
+    },
+    "ui": {
+        "inventory": "i",
+        "map": "m",
+        "escape": "esc",
+        "quest": "o",
+        "character": "p"
+    },
+    "combat_mode": {
+        "switch_weapon": "c",
+        "combat_stance": "tab"
+    },
+    "quick_slots": {
+        "slot1": "f5",
+        "slot2": "f6",
+        "slot3": "f7",
+        "slot4": "f8",
+        "slot5": "f9",
+        "slot6": "f10"
+    }
+}

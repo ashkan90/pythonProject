@@ -1,0 +1,44 @@
+{
+    "game_settings": {
+        "window_name": "Black Desert Online",
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "class_name": "warrior",
+        "route_name": "polly_forest"
+    },
+    "bot_settings": {
+        "auto_pot": {
+            "enabled": true,
+            "hp_threshold": 0.7,
+            "mp_threshold": 0.3
+        },
+        "combat": {
+            "mob_detection_range": 50,
+            "minimum_mob_count": 3,
+            "maximum_chase_distance": 100
+        },
+        "safety": {
+            "channel_swap_on_pvp": true,
+            "logout_on_death": false,
+            "minimum_durability": 20
+        },
+        "loot": {
+            "enabled": true,
+            "pickup_radius": 50,
+            "items_per_minute_limit": 100
+        }
+    },
+    "paths": {
+        "templates_dir": "data/templates",
+        "logs_dir": "data/logs",
+        "scripts_dir": "scripts"
+    },
+    "debug": {
+        "enabled": false,
+        "show_detection": false,
+        "save_screenshots": false,
+        "log_level": "INFO"
+    }
+}
